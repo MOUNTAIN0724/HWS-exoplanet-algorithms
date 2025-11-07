@@ -31,6 +31,20 @@ Three original algorithms for exoplanet anomaly detection in TESS data,    READM
 - 專門針對TESS數據特性優化
 - 完全自主研發的算法框架
 - 經過真實天文數據驗證
+- 
+## 📊 Algorithm Demonstrations
+
+### HWS-SRA Saturation Recovery
+![HWS-SRA Repair Comparison](images/HWS_SRA_repair_comparison.png)
+
+### HWS-SDA Shape Diagnosis  
+![HWS-SDA Shape Analysis](images/HWS_SDA_shape_analysis.png)
+
+### HWS-TAD Anomaly Detection
+![HWS-TAD Anomaly Detection](images/HWS_TAD_anomaly_detection.png)
+
+### Statistical Validation
+![Statistical Validation](images/HWS_statistical_validation.png)
 
 ## 🤝 合作邀請
 歡迎天文研究團隊提供測試案例或合作研究。
