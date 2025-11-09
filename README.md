@@ -1,5 +1,7 @@
 # HWS-exoplanet-algorithms
-Three original algorithms for exoplanet anomaly detection in TESS data,    README
+
+Three original algorithms for exoplanet anomaly detection in TESS data.
+
 # HWS系外行星異常檢測算法套件
 
 ## 🎯 項目簡介
@@ -31,24 +33,24 @@ Three original algorithms for exoplanet anomaly detection in TESS data,    READM
 - 專門針對TESS數據特性優化
 - 完全自主研發的算法框架
 - 經過真實天文數據驗證
-- 
+
 ## 📊 Algorithm Demonstrations
 
 ### HWS-SRA Saturation Recovery
-![HWS-SRA Repair Comparison](images/HWS_SRA_repair_comparison.png)
+![HWS-SRA Repair Comparison](images/HWS-SRA.png)
 
 ### HWS-SDA Shape Diagnosis  
-![HWS-SDA Shape Analysis](images/HWS_SDA_shape_analysis.png)
+![HWS-SDA Shape Analysis](images/HWS-SDA.png)
 
 ### HWS-TAD Anomaly Detection
-![HWS-TAD Anomaly Detection](images/HWS_TAD_anomaly_detection.png)
+![HWS-TAD Anomaly Detection](images/HWS-TAD.png)
 
 ### Statistical Validation
-![Statistical Validation](images/HWS_statistical_validation.png)
+![Statistical Validation](images/statistical_validation.png)
 
 ## 🤝 合作邀請
 歡迎天文研究團隊提供測試案例或合作研究。
 
 ## 📞 聯繫
-MOUNTAIN0724 (GitHub)
-[mountain0724@gmail.com]
+- **GitHub**: [MOUNTAIN0724](https://github.com/MOUNTAIN0724)
+- **Email**: mountain0724@gmail.com
