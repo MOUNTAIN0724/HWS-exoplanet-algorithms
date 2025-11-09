@@ -35,18 +35,17 @@ Three original algorithms for exoplanet anomaly detection in TESS data.
 - 經過真實天文數據驗證
 
 ## 📊 Algorithm Demonstrations
-
 ### HWS-SRA Saturation Recovery
-![HWS-SRA Repair Comparison](images/HWS-SRA.png)
+![HWS-SRA Repair Comparison](images/HWS_SRA_repair_comparison.png)
 
 ### HWS-SDA Shape Diagnosis  
-![HWS-SDA Shape Analysis](images/HWS-SDA.png)
+![HWS-SDA Shape Analysis](images/HWS_SDA_shape_analysis.png)
 
 ### HWS-TAD Anomaly Detection
-![HWS-TAD Anomaly Detection](images/HWS-TAD.png)
+![HWS-TAD Anomaly Detection](images/HWS_TAD_anomaly_detection.png)
 
 ### Statistical Validation
-![Statistical Validation](images/statistical_validation.png)
+![Statistical Validation](images/HWS_statistical_validation.png)
 
 ## 🤝 合作邀請
 歡迎天文研究團隊提供測試案例或合作研究。
